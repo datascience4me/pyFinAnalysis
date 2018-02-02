@@ -26,7 +26,7 @@ def ooMethod():
     axes.set_ylabel('Y Label')
     plt.show()
 
-#ooMethod()
+ooMethod()
 
 def  ooMethod2():
     fig = plt.figure()
@@ -36,4 +36,4 @@ def  ooMethod2():
     axes2.plot(y,x)
     plt.show()
 
-ooMethod2()
+#ooMethod2()
